@@ -1,0 +1,35 @@
+2023-01-21 10:28:07:queues:97 INFO Waiting for messages. To exit press CTRL+C
+2023-01-21 10:28:07:queues:39 INFO Start send result
+2023-01-21 10:28:07:queues:53 INFO End send result
+2023-01-21 10:28:07:queues:39 INFO Start send result
+2023-01-21 10:28:07:queues:53 INFO End send result
+2023-01-21 10:28:07:queues:73 INFO Predict label:
+2023-01-21 10:28:07:queues:73 INFO Predict label:
+2023-01-21 10:33:34:queues:88 INFO Waiting for messages. To exit press CTRL+C
+2023-01-21 10:33:34:queues:41 INFO Start send result
+2023-01-21 10:33:34:queues:54 INFO End send result
+2023-01-21 10:33:34:queues:41 INFO Start send result
+2023-01-21 10:33:34:queues:54 INFO End send result
+2023-01-21 10:33:34:queues:69 INFO Predict label for image:27FY6A is label
+2023-01-21 10:33:34:queues:69 INFO Predict label for image:0H1W6Z is label
+2023-01-21 10:34:55:queues:88 INFO Waiting for messages. To exit press CTRL+C
+2023-01-21 10:34:55:queues:41 INFO Start send result
+2023-01-21 10:34:55:queues:54 INFO End send result
+2023-01-21 10:34:55:queues:41 INFO Start send result
+2023-01-21 10:34:55:queues:54 INFO End send result
+2023-01-21 10:34:55:queues:69 INFO Predict label for image: 97X3EU is label
+2023-01-21 10:34:55:queues:69 INFO Predict label for image: 1IOWNO is label
+2023-01-21 10:35:50:queues:88 INFO Waiting for messages. To exit press CTRL+C
+2023-01-21 10:35:50:queues:41 INFO Start send result
+2023-01-21 10:35:50:queues:54 INFO End send result
+2023-01-21 10:35:50:queues:41 INFO Start send result
+2023-01-21 10:35:50:queues:54 INFO End send result
+2023-01-21 10:35:50:queues:69 INFO Predict label for image: OTV8XK is label
+2023-01-21 10:35:50:queues:69 INFO Predict label for image: DPKCEO is label
+2023-01-21 10:40:50:queues:88 INFO Waiting for messages. To exit press CTRL+C
+2023-01-21 10:40:50:queues:41 INFO Start send result
+2023-01-21 10:40:50:queues:54 INFO End send result
+2023-01-21 10:40:50:queues:41 INFO Start send result
+2023-01-21 10:40:50:queues:54 INFO End send result
+2023-01-21 10:40:50:queues:69 INFO Predict label for image: 6YCUK7 is label
+2023-01-21 10:40:50:queues:69 INFO Predict label for image: 1KKG65 is label
